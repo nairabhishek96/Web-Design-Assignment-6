@@ -1,0 +1,70 @@
+#stopwatch {
+    color: rgb(17, 18, 18);
+    font-style: initial;
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(219, 201, 201), rgb(220, 211, 196), rgb(200, 200, 179), rgb(211, 224, 211), rgb(180, 180, 205), rgb(215, 203, 223), rgb(212, 191, 212));
+    color: rgb(249, 248, 248);
+    font-weight: bold;
+}
+
+.container {
+    height: 500px;
+    padding: 200px 200px;
+    text-align: center;
+}
+
+#display {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.buttons {
+    text-align: center;
+}
+
+#starttimer {
+    background-color: rgb(219, 24, 24);
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(0, 4, 255);
+    border: 3px solid goldenrod;
+}
+
+#starttimer:hover {
+    background-color: rgb(21, 5, 245);
+    color: rgb(210, 178, 178);
+    border: 3px solid black;
+}
+
+
+#stoptimer {
+    background-color: rgb(219, 24, 24);
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(56, 2, 254);
+    border: 3px solid goldenrod;
+}
+
+#stoptimer:hover {
+    background-color: rgb(43, 5, 231);
+    color: rgb(210, 178, 178);
+    border: 3px solid black;
+}
+
+#reset {
+    background-color: rgb(219, 24, 24);
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(3, 24, 253);
+    border: 3px solid goldenrod;
+}
+
+#reset:hover {
+    background-color: rgb(0, 21, 255);
+    color: rgb(210, 178, 178);
+    border: 3px solid black;
+}

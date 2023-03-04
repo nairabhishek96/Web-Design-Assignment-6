@@ -1,0 +1,27 @@
+.container {
+    background: radial-gradient(#b50808, #075ed0);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+body h5 {
+    color: black;
+}
+
+.body-section {
+    background-color: rgb(227, 231, 231);
+}
+
+#submitbtn {
+    color: rgb(255, 255, 255);
+    background-color: rgb(231, 162, 162);
+}
+
+.calc-head {
+    color: #6b6fa5;
+}
+
+label {
+    font-weight: bold;
+    color: rgb(145, 158, 231);
+}

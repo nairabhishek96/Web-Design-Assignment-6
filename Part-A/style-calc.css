@@ -1,0 +1,20 @@
+#form-box {
+    margin: auto;
+    margin-top: 100px;
+    width: 30%;
+    background-color: rgb(11, 126, 248);
+    padding: 50px;
+}
+
+body {  
+    background-image:
+      linear-gradient(
+        to right,
+        rgb(10, 213, 240),
+        rgb(10, 213, 240) 10%
+      );
+}
+
+label {
+    font-weight: bold;
+}
